@@ -1,1 +1,1 @@
-<title><strong>PlayGame</strong></title>
+<tittle><strong>PlayGame</strong></tittle>
