@@ -1,2 +1,2 @@
-<tittle><strong>PlayGame</strong></tittle><br>
-<h1>Games</h1>
+<strong><h1>PlayGame</h1></strong><br>
+<h2>Games</h2>
