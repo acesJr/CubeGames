@@ -1,3 +1,3 @@
-<strong>PlayGame</strong>
+<strong>CubeGames</strong>
 
-GAMES
+<h3>Games</h3>
