@@ -1,3 +1,3 @@
 <strong>CubeGames</strong>
 
-<3>Games</3>
+<h>Games</h>
